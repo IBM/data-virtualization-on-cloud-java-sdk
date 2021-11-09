@@ -1,3 +1,10 @@
+# [0.1.0](https://github.com/IBM/data-virtualization-on-cloud-java-sdk/compare/0.0.8...0.1.0) (2021-11-09)
+
+
+### Features
+
+* **global catalog:** add api SDK for cache and object store ([#25](https://github.com/IBM/data-virtualization-on-cloud-java-sdk/issues/25)) ([fb01717](https://github.com/IBM/data-virtualization-on-cloud-java-sdk/commit/fb017171a8878016aa82d7155f096f855b6cee09))
+
 ## [0.0.8](https://github.com/IBM/data-virtualization-on-cloud-java-sdk/compare/0.0.7...0.0.8) (2021-09-27)
 
 
